@@ -7,9 +7,8 @@
   };
   
 
-  /*module.exports = {
+  module.exports = {
     secret: 'your-secret-key',
     database: 'mongodb://localhost:27017/bookstore'
   };
   
-*/
